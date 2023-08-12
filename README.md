@@ -1,2 +1,2 @@
 # PersonalPortfolio
-A Portfolio website designed with HTML and CSS.
+A Portfolio website designed with HTML, CSS, JavaScript & Bootstrap.
