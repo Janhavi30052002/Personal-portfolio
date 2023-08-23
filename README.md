@@ -8,8 +8,8 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 - Responsive layout for different screen sizes
 - Showcase of projects with descriptions and links
-- About Me section highlighting skills and background
-- Contact form for visitors to get in touch
+- About Me section highlighting about Myself
+- Hire Me Section highlighting skills and background
 - Interactive elements using JavaScript
 
 ## Live Demo
