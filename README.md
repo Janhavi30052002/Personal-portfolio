@@ -22,7 +22,7 @@ Check out the live version of the portfolio : https://janhavi30052002.github.io/
 
 ## Installation
 
-1. Clone the repository: [`git clone https://github.com/your-username/your-portfolio.git`](https://github.com/Janhavi30052002/Personal-portfolio/tree/main)
+1. Clone the repository: (https://github.com/Janhavi30052002/Personal-portfolio/tree/main)
 2. Navigate to the project directory: Personal-Portfolio
 3. Open `index.html` in a web browser to view the website locally.
 
