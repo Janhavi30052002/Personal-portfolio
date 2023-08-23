@@ -1,6 +1,4 @@
-# Portfolio Website
-
-![Portfolio Preview](./screenshot.png)
+## Personal-Portfolio Website
 
 ## Description
 
