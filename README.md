@@ -7,7 +7,7 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 ## Features
 
 - Responsive layout for different screen sizes
-- Showcase of projects with descriptions and links
+- Showcase of projects with links to my GitHub & LinkedIn Profiles
 - About Me section highlighting about Myself
 - Hire Me Section highlighting skills and background
 - Interactive elements using JavaScript
