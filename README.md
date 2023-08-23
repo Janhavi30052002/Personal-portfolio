@@ -14,15 +14,22 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 ## Live Demo
 
-Check out the live version of the portfolio : https://janhavi30052002.github.io/Personal-portfolio/.
+Check out the live version of the portfolio: https://janhavi30052002.github.io/Personal-portfolio/.
 
 ## Screenshots
+Home Page:
 <img width="900" alt="image" src="https://github.com/Janhavi30052002/Personal-portfolio/assets/114862128/5d0e3591-60bf-4fa3-a867-e49ad08fcc4a">
+
+About Me:
+<img width="900" alt="image" src="https://github.com/Janhavi30052002/Personal-portfolio/assets/114862128/367abde8-3126-4e8a-b6ac-4ded77712f88">
+
+Hire Me:
+<img width="950" alt="image" src="https://github.com/Janhavi30052002/Personal-portfolio/assets/114862128/b1d48aed-edc3-4fcd-9300-5df5f4181e86">
 
 
 ## Installation
 
-1. Clone the repository: (https://github.com/Janhavi30052002/Personal-portfolio/tree/main)
+1. Clone the repository: https://github.com/Janhavi30052002/Personal-portfolio.git
 2. Navigate to the project directory: Personal-Portfolio
 3. Open `index.html` in a web browser to view the website locally.
 
